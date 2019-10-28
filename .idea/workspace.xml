@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32ded7d2-96f4-4811-8582-d961b2c85d33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/marker/materials.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/marker/model.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/marker/model.sfa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/marker/model_c.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/marker/model_c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/marker/model_c.sfa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/pin.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/pin.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/pin.sfa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/pin2.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/pin2.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/sampledata/pin2.sfa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/androidTest/java/com/example/lookin/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/assets/en.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/assets/model.sfb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/assets/model_c.sfb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/assets/tanaka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/java/com/example/lookin/ImageActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/java/com/example/lookin/ImageArFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/java/com/example/lookin/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/java/com/example/lookin/TimeLineAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/java/com/example/lookin/TimeLineData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-anydpi/ic_action_clock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-anydpi/ic_action_close.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-hdpi/ic_action_clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-hdpi/ic_action_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-mdpi/ic_action_clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-mdpi/ic_action_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-v24/shop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-xhdpi/ic_action_clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-xhdpi/ic_action_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-xhdpi/ic_action_name.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-xxhdpi/ic_action_clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable-xxhdpi/ic_action_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable/btn_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/drawable/round_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/layout/activity_image.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/layout/second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/layout/timeline_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-xxxhdpi/heart1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-xxxhdpi/heart2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/raw/pin.sfb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/raw/pin2.sfb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/app/src/test/java/com/example/lookin/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ap1_Lookin_Android_v4/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/.idea/ARAIdemo_v2-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/AR_augment/ARAIdemo_v2/app/src/main/java/net/kboy/sceneformsample/activity/menu/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ARAIdemo_v2-master/AR_augment/ARAIdemo_v2/app/src/main/java/net/kboy/sceneformsample/activity/menu/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/AR_augment/ARAIdemo_v2/app/src/main/java/net/kboy/sceneformsample/activity/menu/TimeLineAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/AR_augment/ARAIdemo_v2/app/src/main/java/net/kboy/sceneformsample/activity/menu/TimeLineData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/AR_augment/ARAIdemo_v2/app/src/main/res/drawable/ic_action_clock/ic_action_clock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/AR_augment/ARAIdemo_v2/app/src/main/res/drawable/ic_action_clock/ic_action_clock.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARAIdemo_v2-master/AR_augment/ARAIdemo_v2/app/src/main/res/layout/second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_core_core_ktx_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__com_google_ar_core_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__com_google_ar_sceneform_core_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__com_google_ar_sceneform_filament_android_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__com_google_ar_sceneform_rendering_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__com_google_ar_sceneform_sceneform_base_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__com_google_ar_sceneform_ux_sceneform_ux_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_android_extensions_runtime_1_3_41_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_41_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_41_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android-master/app/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_41_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v2/ap1_Lookin_Android_v2/app/src/main/java/com/example/lookin/ImageActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v2/ap1_Lookin_Android_v2/app/src/main/java/com/example/lookin/ImageActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v2/ap1_Lookin_Android_v2/app/src/main/java/com/example/lookin/ImageArFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v2/ap1_Lookin_Android_v2/app/src/main/java/com/example/lookin/ImageArFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v2/ap1_Lookin_Android_v2/app/src/main/res/layout/activity_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v2/ap1_Lookin_Android_v2/app/src/main/res/layout/activity_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3-master/ap1_Lookin_Android_v3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3-master/ap1_Lookin_Android_v3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3-master/ap1_Lookin_Android_v3/app/sampledata/marker/model_c.mtl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3-master/ap1_Lookin_Android_v3/app/sampledata/marker/model_c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/java/com/example/lookin/ImageActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/java/com/example/lookin/ImageActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/java/com/example/lookin/ImageArFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/java/com/example/lookin/ImageArFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/java/com/example/lookin/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/java/com/example/lookin/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/java/com/example/lookin/TimeLineAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/java/com/example/lookin/TimeLineAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/res/layout/activity_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/res/layout/activity_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/res/layout/second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/res/layout/second.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/res/layout/timeline_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/app/src/main/res/layout/timeline_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../ap1_Lookin_Android_v3/gradle.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ap1_Lookin_Android__v5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ap1_Lookin_Android__v5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ap1_Lookin_Android__v5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ap1_Lookin_Android__v5" type="462c0819:PsiDirectoryNode" />
+              <item name="ap1_Lookin_Android_v4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ap1_Lookin_Android__v5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ap1_Lookin_Android__v5" type="462c0819:PsiDirectoryNode" />
+              <item name="ap1_Lookin_Android_v4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ap1_Lookin_Android__v5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ap1_Lookin_Android__v5" type="462c0819:PsiDirectoryNode" />
+              <item name="ap1_Lookin_Android_v4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sampledata" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ap1_Lookin_Android_v4" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32ded7d2-96f4-4811-8582-d961b2c85d33" name="Default Changelist" comment="" />
+      <created>1572234940603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572234940603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33522266" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Resources Explorer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Viewer" order="3" side_tool="true" />
+    </layout>
+  </component>
+</project>
